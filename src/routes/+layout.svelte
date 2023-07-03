@@ -15,11 +15,8 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<a
-					href="/"
-					rel="noreferrer"
-				>
-				<strong class="text-xl uppercase">Home</strong>
+				<a href="/" rel="noreferrer">
+					<strong class="text-xl uppercase">Home</strong>
 				</a>
 			</svelte:fragment>
 		</AppBar>

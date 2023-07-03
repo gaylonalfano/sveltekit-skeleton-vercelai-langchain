@@ -19,7 +19,6 @@ const openai = new OpenAIApi(
 // Q: Can/should I configure adapter-vercel locally
 // to this route?
 // REF: https://kit.svelte.dev/docs/adapter-vercel#deployment-configuration
-// U: Doesn't seem to work...
 // Original:
 export const runtime = 'edge';
 // Edits:

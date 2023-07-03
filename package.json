@@ -45,6 +45,7 @@
 		"@microsoft/fetch-event-source": "^2.0.1",
 		"ai": "^2.1.13",
 		"langchain": "^0.0.102",
+		"openai-edge": "^1.1.1",
 		"yahoo-finance-ticker": "^1.0.5"
 	}
 }
